@@ -1,7 +1,9 @@
+import './ImageShow.css';
+
 function ImageShow({ image }) {
     return (
-        <div>
-            {image.alt_description}
+        <div className='image-show'>
+            <img src={image.urls.small} alt={image.alt_description} />
         </div>
     )
 }

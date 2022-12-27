@@ -1,0 +1,18 @@
+.search-bar {
+    border: 1px solid lightgray;
+    border-radius: .7rem;
+    padding: .6rem;
+    margin: 1rem 0 2rem;
+    width: 60%;
+}
+
+.search-bar form input {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    border: none;
+    text-decoration: none;
+}
+
+.search-bar form input:focus {
+    outline: none;
+}
