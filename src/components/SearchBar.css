@@ -4,6 +4,7 @@
     padding: .6rem;
     margin: 1rem 0 2rem;
     width: 60%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .search-bar form input {

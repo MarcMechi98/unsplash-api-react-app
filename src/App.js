@@ -13,6 +13,7 @@ function App() {
 
     return (
         <div className="app">
+            <h1>Unsplash API React App</h1>
             <SearchBar onSubmit={handleSubmit} />
             <ImageList images={images} />
         </div>

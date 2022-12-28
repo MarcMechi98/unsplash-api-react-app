@@ -6,3 +6,7 @@
     margin: auto;
     background-color: #FFFDFA;
 }
+
+.app h1 {
+    font-family: 'Roboto', sans-serif;
+}
